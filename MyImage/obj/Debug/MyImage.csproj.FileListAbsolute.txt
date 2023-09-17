@@ -1,0 +1,10 @@
+D:\Code\Code\C#\MyImage\MyImage\bin\Debug\MyImage.exe.config
+D:\Code\Code\C#\MyImage\MyImage\bin\Debug\MyImage.exe
+D:\Code\Code\C#\MyImage\MyImage\bin\Debug\MyImage.pdb
+D:\Code\Code\C#\MyImage\MyImage\obj\Debug\MyImage.csproj.AssemblyReference.cache
+D:\Code\Code\C#\MyImage\MyImage\obj\Debug\MyImage.Form1.resources
+D:\Code\Code\C#\MyImage\MyImage\obj\Debug\MyImage.Properties.Resources.resources
+D:\Code\Code\C#\MyImage\MyImage\obj\Debug\MyImage.csproj.GenerateResource.cache
+D:\Code\Code\C#\MyImage\MyImage\obj\Debug\MyImage.csproj.CoreCompileInputs.cache
+D:\Code\Code\C#\MyImage\MyImage\obj\Debug\MyImage.exe
+D:\Code\Code\C#\MyImage\MyImage\obj\Debug\MyImage.pdb
