@@ -8,3 +8,13 @@ D:\Code\Code\C#\MyImage\MyImage\obj\Debug\MyImage.csproj.GenerateResource.cache
 D:\Code\Code\C#\MyImage\MyImage\obj\Debug\MyImage.csproj.CoreCompileInputs.cache
 D:\Code\Code\C#\MyImage\MyImage\obj\Debug\MyImage.exe
 D:\Code\Code\C#\MyImage\MyImage\obj\Debug\MyImage.pdb
+C:\Users\hoang\Source\Repos\MyImageDT\MyImage\bin\Debug\MyImage.exe.config
+C:\Users\hoang\Source\Repos\MyImageDT\MyImage\bin\Debug\MyImage.exe
+C:\Users\hoang\Source\Repos\MyImageDT\MyImage\bin\Debug\MyImage.pdb
+C:\Users\hoang\Source\Repos\MyImageDT\MyImage\obj\Debug\MyImage.csproj.AssemblyReference.cache
+C:\Users\hoang\Source\Repos\MyImageDT\MyImage\obj\Debug\MyImage.Form1.resources
+C:\Users\hoang\Source\Repos\MyImageDT\MyImage\obj\Debug\MyImage.Properties.Resources.resources
+C:\Users\hoang\Source\Repos\MyImageDT\MyImage\obj\Debug\MyImage.csproj.GenerateResource.cache
+C:\Users\hoang\Source\Repos\MyImageDT\MyImage\obj\Debug\MyImage.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Source\Repos\MyImageDT\MyImage\obj\Debug\MyImage.exe
+C:\Users\hoang\Source\Repos\MyImageDT\MyImage\obj\Debug\MyImage.pdb
